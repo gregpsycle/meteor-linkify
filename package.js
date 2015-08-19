@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'lingxiaosun:meteor-linkify',
+	name: 'ls3271:meteor-linkify',
 	version: '0.0.5',
 	// Brief, one-line summary of the package.
 	summary: 'JavaScript plugin for finding links in plain-text and converting them to HTML <a> tags.',

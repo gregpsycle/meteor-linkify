@@ -9,5 +9,5 @@ Installation
 ----------------
 
 ```
-meteor add lingxiaosun:meteor-linkify
+meteor add ls3271:meteor-linkify
 ```
